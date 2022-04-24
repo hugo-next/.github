@@ -11,12 +11,15 @@ Make `NexT` theme to more easily and powerful, and hope it could popular on Hugo
 ## Theme logo
 
 - __Primary__
+
 ![hugo-next-primary](imgs/log/hugo-next-primary.png)
 
 - __Secondary__
+
 ![hugo-next-secondary](imgs/log/hugo-next-secondary.png)
 
 - __Symbol__
+
 ![hugo-next-symbol](imgs/log/hugo-next-symbol.png)
 
 ## Join us
