@@ -40,9 +40,6 @@ If this theme can help you, please scan the QR code below to reward us with a cu
 
 ## Connect us
 
-Website: comming
-E-mail: `elkan1788@139.com`
-License: [MIT](LICENSE)
-
-
-
+- __Website:__ comming
+- __E-mail:__ `elkan1788@139.com`
+- __License:__ [MIT](LICENSE)

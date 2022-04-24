@@ -12,15 +12,15 @@ Make `NexT` theme to more easily and powerful, and hope it could popular on Hugo
 
 - __Primary__
 
-![hugo-next-primary](../imgs/log/hugo-next-primary.png)
+![hugo-next-primary](imgs/log/hugo-next-primary.png)
 
 - __Secondary__
 
-![hugo-next-secondary](../imgs/log/hugo-next-secondary.png)
+![hugo-next-secondary](imgs/log/hugo-next-secondary.png)
 
 - __Symbol__
 
-![hugo-next-symbol](.../imgs/log/hugo-next-symbol.png)
+![hugo-next-symbol](imgs/log/hugo-next-symbol.png)
 
 ## Join us
 
@@ -32,14 +32,14 @@ If this theme can help you, please scan the QR code below to reward us with a cu
 
 - __Wechat Pay__
 
-![wechat pay](../imgs/wechat-pay.png)
+![wechat pay](imgs/wechat-pay.png)
 
 - __Ali Pay__
 
-![Ali Pay](../imgs/ali-pay.png)
+![Ali Pay](imgs/ali-pay.png)
 
 ## Connect us
 
-Website: comming
-E-mail: `elkan1788@139.com`
-License: [MIT](../LICENSE)
+- __Website:__ comming
+- __E-mail:__ `elkan1788@139.com`
+- __License:__ [MIT](LICENSE)
