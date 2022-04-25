@@ -12,15 +12,15 @@ Make `NexT` theme to more easily and powerful, and hope it could popular on Hugo
 
 - __Primary__
 
-![hugo-next-primary](//lisenhui.gitee.io/imgs/hugo-next/logo/hugo-next-primary.png)
+![hugo-next-primary](https://lisenhui.gitee.io/imgs/hugo-next/logo/hugo-next-primary.png)
 
 - __Secondary__
 
-![hugo-next-secondary](//lisenhui.gitee.io/imgs/hugo-next/logo/hugo-next-secondary.png)
+![hugo-next-secondary](https://lisenhui.gitee.io/imgs/hugo-next/logo/hugo-next-secondary.png)
 
 - __Symbol__
 
-![hugo-next-symbol](//lisenhui.gitee.io/imgs/hugo-next/logo/hugo-next-symbol.png)
+![hugo-next-symbol](https://lisenhui.gitee.io/imgs/hugo-next/logo/hugo-next-symbol.png)
 
 ## Join us
 
@@ -32,11 +32,11 @@ If this theme can help you, please scan the QR code below to reward us with a cu
 
 - __Wechat Pay__
 
-![wechat pay](//lisenhui.gitee.io/imgs/donation/wechat-pay.png)
+![wechat pay](https://lisenhui.gitee.io/imgs/donation/wechat-pay.png)
 
 - __Ali Pay__
 
-![Ali Pay](//lisenhui.gitee.io/imgs/donation/ali-pay.png)
+![Ali Pay](https://lisenhui.gitee.io/imgs/donation/ali-pay.png)
 
 ## Connect us
 
