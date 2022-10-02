@@ -24,7 +24,8 @@
   <a href="https://github.com/hugo-next/hugo-theme-next/releases">
     <img src="https://img.shields.io/github/v/release/hugo-next/hugo-theme-next?logo=semantic-release&style=flat-square"/>
   </a>
-  <img src="../imgs/screenshot.png" sytle="width:46%;"/>
+  <br/>
+  <img src="https://raw.githubusercontent.com/hugo-next/.github/main/imgs/screenshot.png" sytle="width:46%;"/>
 </div>
 
 > **Note**
