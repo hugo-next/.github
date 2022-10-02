@@ -1,45 +1,30 @@
-## NexT theme team
+<p align="center">
 
-Welcome to NexT theme organization who migrate it from `Hexo` to `Hugo`.
+«Hugo NexT» were migrated from <a href="https://github.com/next-theme/hexo-theme-next"><code>Hexo NexT</code></a> that keep easily and powerful, also hope it colud popular on Hugo egine as well.
 
-## Our vision
+  <a href="https://lisenhui.cn">
+    <img src="https://img.shields.io/badge/author-Lisenhui-blue?logo=Auth0&style=flat-square"/>
+  </a>
+  <a href="https://gitter.im/hugo-next/community">
+    <img src="https://img.shields.io/gitter/room/hugo-next/hugo-them-next?logo=gitter&style=flat-square"/>
+  </a>
+  <a href="https://github.com/hugo-next/hugo-theme-next">
+    <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/hugo-next?logo=GitHub&style=flat-square">
+  </a>
+  <a href="https://github.com/hugo-next/hugo-theme-next">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/hugo-next?logo=GitHub&style=flat-square">
+  </a>
+  <a href="https://github.com/hugo-next/hugo-theme-next">
+    <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/hugo-next/hugo-theme-next?logo=Coursera&style=flat-square">
+  </a>
+  <a href="https://github.com/hugo-next/hugo-theme-next/releases">
+    <img src="https://img.shields.io/github/v/release/hugo-next/hugo-theme-next?logo=semantic-release&style=flat-square"/>
+  </a>
+  <a href="https://github.com/hugo-next/hugo-theme-next/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/hugo-next/hugo-theme-next?logo=webauthn&style=flat-square"/>
+  </a>
+  <img src="/hugo-next/.github/raw/main/imgs/screenshot.png" sytle="width:46%;"/>
+</p>
 
-Make `NexT` theme to more easily and powerful, and hope it could popular on Hugo engine.
-
-> Please let know you are using this theme.
-
-## Theme logo
-
-- __Primary__
-
-![hugo-next-primary](https://lisenhui.gitee.io/imgs/hugo-next/logo/hugo-next-primary.png)
-
-- __Secondary__
-
-![hugo-next-secondary](https://lisenhui.gitee.io/imgs/hugo-next/logo/hugo-next-secondary.png)
-
-- __Symbol__
-
-![hugo-next-symbol](https://lisenhui.gitee.io/imgs/hugo-next/logo/hugo-next-symbol.png)
-
-## Join us
-
-You can send an E-mail to `elkan1788@139.com` or create an issue then make a label which is call `join us`.
-
-## Donation
-
-If this theme can help you, please scan the QR code below to reward us with a cup of coffee, Thanks.
-
-- __Wechat Pay__
-
-![wechat pay](https://lisenhui.gitee.io/imgs/donation/wechat-pay.png)
-
-- __Ali Pay__
-
-![Ali Pay](https://lisenhui.gitee.io/imgs/donation/ali-pay.png)
-
-## Connect us
-
-- __Website:__ comming soon
-- __E-mail:__ `elkan1788@139.com`
-- __License:__ [MIT](LICENSE)
+> **Note**
+> Please let we know you are using this theme, add your case in here: [Friend's Link](https://preview.hugo-next.eu.org/flinks.html).
